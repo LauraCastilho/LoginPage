@@ -13,7 +13,7 @@ This project is a simple login page basically made with ReactJS and CSS
 First of all, you need to have node and yarn installed on your machine.
 Then you can clone the repository.
 
-git clone https://github.com/LauraCastilho/LoginPage/tree/main
+`git clone https://github.com/LauraCastilho/LoginPage/tree/main`
 
 Now, start the web application
 1. cd login
