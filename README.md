@@ -6,6 +6,10 @@ This project is a simple login page basically made with ReactJS and CSS
 
 <br>
 
+
+https://user-images.githubusercontent.com/54919378/162892808-8e32ef81-9758-48fa-8ab6-4dcb574aef59.mp4
+
+
 </div>
 
 ## 🚀 Getting Started
