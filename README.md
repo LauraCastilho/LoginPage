@@ -27,4 +27,4 @@ Now, start the application
 - Visual Studio Code
 
 ---
-Made with 💟 by Laura Castilho 👋 [Talk to me!](https://www.linkedin.com/in/laura-castilho-a7a0b21b9/)
+Made with ❤️ by Laura Castilho 👋 [Talk to me!](https://www.linkedin.com/in/laura-castilho-a7a0b21b9/)
