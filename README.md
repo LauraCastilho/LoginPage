@@ -15,7 +15,7 @@ Then you can clone the repository.
 
 `git clone https://github.com/LauraCastilho/LoginPage.git`
 
-Now, start the web application
+Now, start the application
 1. cd login
 2. yarn install
 3. yarn start
